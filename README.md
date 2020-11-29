@@ -1,1 +1,1 @@
-# 神州 chain
+# ShenZhou Chain
